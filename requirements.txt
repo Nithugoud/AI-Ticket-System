@@ -1,0 +1,16 @@
+# AI-Powered Ticket Creation and Categorization System
+# Python Dependencies
+
+# Core ML Libraries
+scikit-learn==1.3.2
+joblib==1.3.2
+numpy==1.24.3
+
+# NLP & Text Processing
+nltk==3.8.1
+
+# Web Framework
+streamlit==1.28.1
+
+# Utilities
+python-dateutil==2.8.2
